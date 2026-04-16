@@ -1,5 +1,4 @@
 
-
 # 🚀 Projeto: API Node.js com MongoDB
 
 ## 📋 Sobre o Projeto
@@ -31,3 +30,7 @@ Este repositório contém o passo a passo da construção de uma **API RESTful**
   - [ ] Deploy da aplicação.
         
 ----
+
+<img width="1366" height="768" alt="Captura de tela 2026-04-15 170444" src="https://github.com/user-attachments/assets/1a2343c8-d479-4a4d-bce2-b49bcddd7853" />
+<img width="1366" height="768" alt="Captura de tela 2026-04-15 170433" src="https://github.com/user-attachments/assets/8c2f7881-0efe-4706-b91a-3d5d3dc463ef" />
+<img width="1366" height="768" alt="Captura de tela 2026-04-15 170427" src="https://github.com/user-attachments/assets/5dece33d-27bb-464f-90d7-f7497966a6fe" />
